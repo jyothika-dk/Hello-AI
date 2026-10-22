@@ -1,4 +1,4 @@
-# Hello - AI
+# Hello - AI - Introduction to AI
 
 # 🐍 Python Mini Projects Collection
 
